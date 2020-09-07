@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Yannik Motzet
+bio: computer science student
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,8 +12,8 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+#twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
-# gitlab: mygitlab
+github: yannikmotzet
+gitlab: ymotzet
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
   johndoe:
@@ -84,7 +84,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
